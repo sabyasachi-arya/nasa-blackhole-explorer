@@ -99,7 +99,15 @@ export default function CompareModal({ pair, onClose }: CompareModalProps) {
             return (
               <div key={bh.id} className="space-y-3">
                 <div className="aspect-[4/3] overflow-hidden rounded-xl border border-white/10">
-                  <SmartImage src={bh.imageUrl} alt={bh.name} seed={bh.id} type={bh.type} eager />
+                  <SmartImage
+                    src={bh.imageUrl}
+                    localImage={bh.localImage}
+                    alt={bh.name}
+                    seed={bh.id}
+                    type={bh.type}
+                    sizes="(min-width: 896px) 420px, 50vw"
+                    eager
+                  />
                 </div>
                 <div>
                   <h3 className="text-base font-bold leading-tight text-ink-100 md:text-lg">

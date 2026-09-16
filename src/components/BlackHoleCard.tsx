@@ -98,7 +98,9 @@ function BlackHoleCard({
           <div className="h-full w-full transition-transform duration-700 ease-out group-hover:scale-[1.06]">
             <SmartImage
               src={blackHole.imageUrl}
+              localImage={blackHole.localImage}
               alt={blackHole.name}
+              sizes="(min-width: 1280px) 300px, (min-width: 1024px) 33vw, (min-width: 640px) 50vw, calc(100vw - 32px)"
               seed={blackHole.id}
               type={blackHole.type}
             />

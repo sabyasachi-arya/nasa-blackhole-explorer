@@ -28,7 +28,7 @@ export default function Footer() {
           <p className="mt-3 max-w-xl text-xs leading-relaxed text-ink-500">
             Event-horizon diameters are computed from the Schwarzschild radius for a non-rotating
             black hole of the stated mass (about 2.95 km per solar mass), so they are indicative
-            rather than measured. Imagery is hotlinked from Wikimedia Commons under its respective
+            rather than measured. Imagery comes from Wikimedia Commons under its respective
             public-domain and Creative Commons licences; where no photograph exists, the
             application renders an illustrative accretion disc instead.
           </p>

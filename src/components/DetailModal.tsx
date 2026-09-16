@@ -296,6 +296,8 @@ export default function DetailModal({
             >
               <SmartImage
                 src={blackHole.imageUrl}
+                localImage={blackHole.localImage}
+                sizes="(min-width: 1024px) 480px, (min-width: 768px) 50vw, calc(100vw - 40px)"
                 alt={`${blackHole.name} — observational image`}
                 seed={blackHole.id}
                 type={blackHole.type}

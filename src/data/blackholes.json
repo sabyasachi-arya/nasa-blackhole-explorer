@@ -38,7 +38,8 @@
     ],
     "wikipediaTitle": "Sagittarius A*",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/EHT_Saggitarius_A_black_hole.tif/lossy-page1-960px-EHT_Saggitarius_A_black_hole.tif.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — Sagittarius A*"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Sagittarius A*",
+    "localImage": "1-sagittarius-a"
   },
   {
     "id": 2,
@@ -82,7 +83,8 @@
     ],
     "wikipediaTitle": "Messier 87",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Messier_87_Hubble_WikiSky.jpg/960px-Messier_87_Hubble_WikiSky.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Messier 87\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Messier 87\"",
+    "localImage": "2-m87"
   },
   {
     "id": 3,
@@ -125,7 +127,8 @@
     ],
     "wikipediaTitle": "Cygnus X-1",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Chandra_image_of_Cygnus_X-1.jpg/960px-Chandra_image_of_Cygnus_X-1.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — Chandra image of Cygnus X-1.jpg"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Chandra image of Cygnus X-1.jpg",
+    "localImage": "3-cygnus-x-1"
   },
   {
     "id": 4,
@@ -166,7 +169,8 @@
     ],
     "wikipediaTitle": "TON 618",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/TON_618_SDSS9_version_3.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — TON 618"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — TON 618",
+    "localImage": "4-ton-618"
   },
   {
     "id": 5,
@@ -206,7 +210,8 @@
     ],
     "wikipediaTitle": "GW150914",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MergingBlackHoles_V2.jpg/960px-MergingBlackHoles_V2.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — MergingBlackHoles V2.jpg"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — MergingBlackHoles V2.jpg",
+    "localImage": "5-gw150914"
   },
   {
     "id": 6,
@@ -246,7 +251,8 @@
     ],
     "wikipediaTitle": "V404 Cygni",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/V404Cyg_XRT_halo_fullsize.jpg/960px-V404Cyg_XRT_halo_fullsize.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"V404 Cygni\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"V404 Cygni\"",
+    "localImage": "6-v404-cygni"
   },
   {
     "id": 7,
@@ -286,7 +292,8 @@
     ],
     "wikipediaTitle": "A0620-00",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/V616MonLightCurve.png/960px-V616MonLightCurve.png",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"A0620-00\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"A0620-00\"",
+    "localImage": "7-a0620-00"
   },
   {
     "id": 8,
@@ -327,7 +334,8 @@
     ],
     "wikipediaTitle": "Gaia BH1",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gaia_BH1_PanSTARRS.jpg/960px-Gaia_BH1_PanSTARRS.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Gaia BH1\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Gaia BH1\"",
+    "localImage": "8-gaia-bh1"
   },
   {
     "id": 9,
@@ -366,7 +374,8 @@
     ],
     "wikipediaTitle": "Gaia BH2",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gaia_BH2_decaps_dr2.jpg/960px-Gaia_BH2_decaps_dr2.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Gaia BH2\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Gaia BH2\"",
+    "localImage": "9-gaia-bh2"
   },
   {
     "id": 10,
@@ -406,7 +415,8 @@
     ],
     "wikipediaTitle": "Gaia BH3",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Artist%E2%80%99s_impression_of_the_system_with_the_most_massive_stellar_black_hole_in_our_galaxy_%28eso2408a%29.jpg/960px-Artist%E2%80%99s_impression_of_the_system_with_the_most_massive_stellar_black_hole_in_our_galaxy_%28eso2408a%29.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Gaia BH3\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Gaia BH3\"",
+    "localImage": "10-gaia-bh3"
   },
   {
     "id": 11,
@@ -446,7 +456,8 @@
     ],
     "wikipediaTitle": "GRS 1915+105",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/V1487AqlLightCurve.png/960px-V1487AqlLightCurve.png",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"GRS 1915+105\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"GRS 1915+105\"",
+    "localImage": "11-grs-1915-105"
   },
   {
     "id": 12,
@@ -486,7 +497,8 @@
     ],
     "wikipediaTitle": "GRO J1655-40",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/GRO_J1655-40.jpg/960px-GRO_J1655-40.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"GRO J1655−40\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"GRO J1655−40\"",
+    "localImage": "12-gro-j1655-40"
   },
   {
     "id": 13,
@@ -523,7 +535,8 @@
     ],
     "wikipediaTitle": "LMC X-1",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NGC_2079_and_LMC_X-1_HST.jpg/960px-NGC_2079_and_LMC_X-1_HST.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"LMC X-1\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"LMC X-1\"",
+    "localImage": "13-lmc-x-1"
   },
   {
     "id": 14,
@@ -559,7 +572,8 @@
     ],
     "wikipediaTitle": "LMC X-3",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/LMC_X-3_%28Arrow%29.jpg/960px-LMC_X-3_%28Arrow%29.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"LMC X-3\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"LMC X-3\"",
+    "localImage": "14-lmc-x-3"
   },
   {
     "id": 15,
@@ -596,7 +610,8 @@
     ],
     "wikipediaTitle": "XTE J1650-500",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/XTE_J1650-500.jpg/960px-XTE_J1650-500.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"XTE J1650−500\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"XTE J1650−500\"",
+    "localImage": "15-xte-j1650-500"
   },
   {
     "id": 16,
@@ -633,7 +648,8 @@
     ],
     "wikipediaTitle": "IGR J17091-3624",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IGR_J17091-3624.jpg/960px-IGR_J17091-3624.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"IGR J17091-3624\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"IGR J17091-3624\"",
+    "localImage": "16-igr-j17091-3624"
   },
   {
     "id": 17,
@@ -675,7 +691,8 @@
     ],
     "wikipediaTitle": "OGLE-2011-BLG-0462",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rogue_black_hole_OGLE-2011-BLG-0462.gif/960px-Rogue_black_hole_OGLE-2011-BLG-0462.gif",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"OGLE-2011-BLG-0462\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"OGLE-2011-BLG-0462\"",
+    "localImage": "17-ogle-2011-blg-0462"
   },
   {
     "id": 18,
@@ -715,7 +732,8 @@
     ],
     "wikipediaTitle": "Cygnus A",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/3c405.jpg/960px-3c405.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Cygnus A\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Cygnus A\"",
+    "localImage": "18-cygnus-a"
   },
   {
     "id": 19,
@@ -756,7 +774,8 @@
     ],
     "wikipediaTitle": "Centaurus A",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ESO_Centaurus_A_LABOCA.jpg/960px-ESO_Centaurus_A_LABOCA.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Centaurus A\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Centaurus A\"",
+    "localImage": "19-centaurus-a"
   },
   {
     "id": 20,
@@ -797,7 +816,8 @@
     ],
     "wikipediaTitle": "3C 273",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Best_image_of_bright_quasar_3C_273_%2810953173335%29.jpg/960px-Best_image_of_bright_quasar_3C_273_%2810953173335%29.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"3C 273\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"3C 273\"",
+    "localImage": "20-3c-273"
   },
   {
     "id": 21,
@@ -838,7 +858,8 @@
     ],
     "wikipediaTitle": "Andromeda Galaxy",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Andromeda_Galaxy_2025.png/960px-Andromeda_Galaxy_2025.png",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Andromeda Galaxy\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Andromeda Galaxy\"",
+    "localImage": "21-m31-andromeda"
   },
   {
     "id": 22,
@@ -879,7 +900,8 @@
     ],
     "wikipediaTitle": "NGC 4889",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Caldwell_35.jpg/960px-Caldwell_35.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"NGC 4889\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"NGC 4889\"",
+    "localImage": "22-ngc-4889"
   },
   {
     "id": 23,
@@ -921,7 +943,8 @@
     ],
     "wikipediaTitle": "Holmberg 15A",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Holmberg_15A_chandra.jpg/960px-Holmberg_15A_chandra.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Holmberg 15A\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Holmberg 15A\"",
+    "localImage": "23-holmberg-15a"
   },
   {
     "id": 24,
@@ -957,7 +980,8 @@
     ],
     "wikipediaTitle": "NGC 1277",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/NGC_1277_viewed_by_Hubble.jpg/960px-NGC_1277_viewed_by_Hubble.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"NGC 1277\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"NGC 1277\"",
+    "localImage": "24-ngc-1277"
   },
   {
     "id": 25,
@@ -998,7 +1022,8 @@
     ],
     "wikipediaTitle": "OJ 287",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SizesCompared-GalaxyOJ287CentralBlackHoles%26SolarSystem.jpg/960px-SizesCompared-GalaxyOJ287CentralBlackHoles%26SolarSystem.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"OJ 287\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"OJ 287\"",
+    "localImage": "25-oj-287-primary"
   },
   {
     "id": 26,
@@ -1034,7 +1059,8 @@
     ],
     "wikipediaTitle": "S5 0014+81",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Molecular_Torus_Surrounds_Black_Hole.jpg/960px-Molecular_Torus_Surrounds_Black_Hole.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"S5 0014+81\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"S5 0014+81\"",
+    "localImage": "26-s5-0014-81"
   },
   {
     "id": 27,
@@ -1074,7 +1100,8 @@
     ],
     "wikipediaTitle": "Messier 84",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_fascinating_core.jpg/960px-A_fascinating_core.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Messier 84\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Messier 84\"",
+    "localImage": "27-messier-84"
   },
   {
     "id": 28,
@@ -1116,7 +1143,8 @@
     ],
     "wikipediaTitle": "Markarian 231",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hubble_Interacting_Galaxy_UGC_8058_%282008-04-24%29.jpg/960px-Hubble_Interacting_Galaxy_UGC_8058_%282008-04-24%29.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Markarian 231\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Markarian 231\"",
+    "localImage": "28-markarian-231"
   },
   {
     "id": 29,
@@ -1157,7 +1185,8 @@
     ],
     "wikipediaTitle": "NGC 6240",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hubble_revisits_tangled_NGC_6240.jpg/960px-Hubble_revisits_tangled_NGC_6240.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — NGC 6240"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — NGC 6240",
+    "localImage": "29-ngc-6240-dual-nuclei"
   },
   {
     "id": 30,
@@ -1199,7 +1228,8 @@
     ],
     "wikipediaTitle": "J0313-1806",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/QSO_J031343.84%E2%88%92180636.4.png",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — J0313-1806"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — J0313-1806",
+    "localImage": "30-j0313-1806"
   },
   {
     "id": 31,
@@ -1236,7 +1266,8 @@
     ],
     "wikipediaTitle": "NGC 1600",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cutout_HST_7886_22_NIC_NIC2_total_sci_NGC_1600.jpg/960px-Cutout_HST_7886_22_NIC_NIC2_total_sci_NGC_1600.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"NGC 1600\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"NGC 1600\"",
+    "localImage": "31-ngc-1600"
   },
   {
     "id": 32,
@@ -1276,7 +1307,8 @@
     ],
     "wikipediaTitle": "M60-UCD1",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/M60-UCD1_by_HST.jpg/960px-M60-UCD1_by_HST.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"M60-UCD1\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"M60-UCD1\"",
+    "localImage": "32-m60-ucd1"
   },
   {
     "id": 33,
@@ -1318,7 +1350,8 @@
     ],
     "wikipediaTitle": "HLX-1",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESO_243-49_%28HST%29.jpg/960px-ESO_243-49_%28HST%29.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"HLX-1\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"HLX-1\"",
+    "localImage": "33-hlx-1"
   },
   {
     "id": 34,
@@ -1358,7 +1391,8 @@
     ],
     "wikipediaTitle": "GW190521",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PhysRevLett.125.101102_Fig1.png/960px-PhysRevLett.125.101102_Fig1.png",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"GW190521\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"GW190521\"",
+    "localImage": "34-gw190521"
   },
   {
     "id": 35,
@@ -1397,7 +1431,8 @@
     ],
     "wikipediaTitle": "Tidal disruption event",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tde-simulation.jpg/960px-Tde-simulation.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Tidal disruption event\""
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Tidal disruption event\"",
+    "localImage": "35-3xmm-j215022-4-055108"
   },
   {
     "id": 36,
@@ -1439,7 +1474,8 @@
     ],
     "wikipediaTitle": "Omega Centauri",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Omega_Centauri_Stars.png/960px-Omega_Centauri_Stars.png",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — Omega Centauri"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Omega Centauri",
+    "localImage": "36-omega-centauri-imbh"
   },
   {
     "id": 37,
@@ -1479,7 +1515,8 @@
     ],
     "wikipediaTitle": "GN-z11",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Distant_galaxy_GN-z11_in_GOODS-N_image_by_HST.jpg/960px-Distant_galaxy_GN-z11_in_GOODS-N_image_by_HST.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — GN-z11"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — GN-z11",
+    "localImage": "37-gn-z11"
   },
   {
     "id": 38,
@@ -1596,7 +1633,8 @@
     ],
     "wikipediaTitle": "GW250114",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Gw250114_data_and_reconstruction.svg/960px-Gw250114_data_and_reconstruction.svg.png",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — GW250114"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — GW250114",
+    "localImage": "40-gw250114"
   },
   {
     "id": 41,
@@ -1677,7 +1715,8 @@
     ],
     "wikipediaTitle": "Cosmic Horseshoe",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/A_Horseshoe_Einstein_Ring_from_Hubble.JPG/960px-A_Horseshoe_Einstein_Ring_from_Hubble.JPG",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — Cosmic Horseshoe"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Cosmic Horseshoe",
+    "localImage": "42-cosmic-horseshoe"
   },
   {
     "id": 43,
@@ -1718,7 +1757,8 @@
     ],
     "wikipediaTitle": "CAPERS-LRD-z9",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/CAPERS-LRD-z9.png",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — CAPERS-LRD-z9"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — CAPERS-LRD-z9",
+    "localImage": "43-capers-lrd-z9"
   },
   {
     "id": 44,
@@ -1832,7 +1872,8 @@
     ],
     "wikipediaTitle": "Infinity Galaxy",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Infinity_Galaxy_%28NIRCam%29_%2801JZJK8927VB7900WF3SAGSTFH%29.jpg/960px-Infinity_Galaxy_%28NIRCam%29_%2801JZJK8927VB7900WF3SAGSTFH%29.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — Infinity Galaxy"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Infinity Galaxy",
+    "localImage": "46-infinity-galaxy"
   },
   {
     "id": 47,
@@ -1873,7 +1914,8 @@
     ],
     "wikipediaTitle": "Ansky (black hole)",
     "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Giant_black_hole_awakens_with_repetitive_X-ray_bursts_ESA507947.jpg/960px-Giant_black_hole_awakens_with_repetitive_X-ray_bursts_ESA507947.jpg",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — Ansky (black hole)"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Ansky (black hole)",
+    "localImage": "47-ansky"
   },
   {
     "id": 48,
@@ -2097,6 +2139,7 @@
     ],
     "wikipediaTitle": "MoM-BH*-1",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/MoM-BH%2A-1.png",
-    "imageCredit": "Wikimedia Commons via English Wikipedia — MoM-BH*-1"
+    "imageCredit": "Wikimedia Commons via English Wikipedia — MoM-BH*-1",
+    "localImage": "53-mom-bh-1"
   }
 ]

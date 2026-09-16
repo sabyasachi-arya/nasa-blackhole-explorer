@@ -48,6 +48,12 @@ export interface BlackHole {
   facts?: string[];
   /** Attribution for `imageUrl`. */
   imageCredit?: string;
+  /**
+   * Base name of self-hosted WebP renditions in public/images
+   * (`<localImage>-{480,720,960}.webp`), generated from
+   * `imageUrl` by scripts/optimize-images.mjs.
+   */
+  localImage?: string;
   /** English Wikipedia article title, used by scripts/fetch-images.mjs. */
   wikipediaTitle?: string;
   /** Flags a record whose headline claim is historically significant. */

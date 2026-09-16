@@ -24,6 +24,7 @@ The dev server runs on <http://localhost:5180>.
 | `npm run preview` | Serve the production build locally |
 | `npm run typecheck` | `tsc --noEmit` only |
 | `npm run enrich:images` | Re-resolve `imageUrl` for every record (see below) |
+| `npm run optimize:images` | Download and self-host 480/720/960px WebP renditions (see below) |
 
 ## Project layout
 
@@ -110,7 +111,17 @@ It is resumable (rate limiting is common), backs off on HTTP 429, and filters ou
 maps, light curves and schematic diagrams that lead many astronomy articles. A small `OVERRIDES`
 map in the script steers the handful of records where the best image is not the lead image.
 
-Images are hotlinked from Wikimedia Commons under their respective public-domain and Creative
+Wikimedia rate-limits hotlinked thumbnails (HTTP 429), which broke imagery on phones, so the app
+serves self-hosted copies instead. After enriching, run:
+
+```bash
+npm run optimize:images
+```
+
+It downloads each `imageUrl` once, writes `public/images/<slug>-480.webp`, `-720.webp` and `-960.webp`, and sets
+`localImage` on the record; `SmartImage` serves them via `srcset`, so phones fetch the small file.
+
+Images come from Wikimedia Commons under their respective public-domain and Creative
 Commons licences. When one fails to load — offline, blocked CDN, rate limiting — `SmartImage` falls
 back to `BlackHoleVisual`, a procedurally drawn accretion disc seeded from the record id, so the
 grid never shows a broken tile.
