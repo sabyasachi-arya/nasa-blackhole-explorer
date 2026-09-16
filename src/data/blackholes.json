@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "name": "Sagittarius A*",
+    "alternateNames": [
+      "Sgr A*",
+      "SgrA*"
+    ],
+    "distanceFromEarth": {
+      "value": 26996,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 4297000,
+      "unit": "solar masses"
+    },
+    "discovered": 1974,
+    "discoveredBy": [
+      "Bruce Balick",
+      "Robert Brown"
+    ],
+    "description": "The supermassive black hole at the dynamical centre of the Milky Way, and the most thoroughly studied black hole in existence. Balick and Brown identified it in 1974 as a compact radio source at the Galactic Centre. Decades of tracking individual stars whipping around it — work that earned Reinhard Genzel and Andrea Ghez a share of the 2020 Nobel Prize in Physics — pinned its mass to roughly 4.3 million Suns inside a region smaller than the orbit of Mercury. In May 2022 the Event Horizon Telescope released the first direct image of its shadow, showing the bright, turbulent ring of superheated gas that lies just outside the point of no return.",
+    "type": "supermassive",
+    "notable": "Nearest supermassive black hole to Earth",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/anatomy/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sagittarius_A*",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=Sgr%20A*"
+    },
+    "eventHorizonDiameter": {
+      "value": 25.4,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Despite its mass, its event horizon would fit comfortably inside the orbit of Mercury.",
+      "Gas orbits its innermost edge at a substantial fraction of the speed of light, which is why the 2022 EHT image took five years to assemble.",
+      "It is a remarkably quiet black hole — it accretes only a trickle of material compared with an active quasar."
+    ],
+    "wikipediaTitle": "Sagittarius A*",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/EHT_Saggitarius_A_black_hole.tif/lossy-page1-960px-EHT_Saggitarius_A_black_hole.tif.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Sagittarius A*"
+  },
+  {
+    "id": 2,
+    "name": "M87*",
+    "alternateNames": [
+      "Messier 87*",
+      "Virgo A*",
+      "NGC 4486*",
+      "Pōwehi"
+    ],
+    "distanceFromEarth": {
+      "value": 53500000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 6500000000,
+      "unit": "solar masses"
+    },
+    "discovered": 1978,
+    "discoveredBy": [
+      "Wallace Sargent",
+      "Peter Young",
+      "Event Horizon Telescope Collaboration"
+    ],
+    "description": "The first black hole ever imaged. M87* sits at the heart of the giant elliptical galaxy Messier 87 in the Virgo Cluster, and drives a relativistic jet of plasma more than 5,000 light-years long that was photographed by Heber Curtis as early as 1918. Sargent and colleagues inferred a central dark mass from stellar motions in 1978. On 10 April 2019 the Event Horizon Telescope Collaboration published the now-iconic orange ring — light bent around the black hole's shadow — assembled from a planet-wide network of radio dishes. Its event horizon is larger than our entire Solar System.",
+    "type": "supermassive",
+    "notable": "First black hole ever directly imaged (EHT, 2019)",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/anatomy/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Messier_87",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=M87"
+    },
+    "eventHorizonDiameter": {
+      "value": 38350,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Light takes about 1.5 days to cross its event horizon.",
+      "Its Hawaiian name, Pōwehi, means 'embellished dark source of unending creation'.",
+      "The EHT image required about 5 petabytes of data, shipped physically on hard drives because it was too large to transmit."
+    ],
+    "wikipediaTitle": "Messier 87",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Messier_87_Hubble_WikiSky.jpg/960px-Messier_87_Hubble_WikiSky.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Messier 87\""
+  },
+  {
+    "id": 3,
+    "name": "Cygnus X-1",
+    "alternateNames": [
+      "HDE 226868",
+      "Cyg X-1"
+    ],
+    "distanceFromEarth": {
+      "value": 7240,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 21.2,
+      "unit": "solar masses"
+    },
+    "discovered": 1964,
+    "discoveredBy": [
+      "Stuart Bowyer",
+      "Edward Byram",
+      "Talbot Chubb",
+      "Herbert Friedman"
+    ],
+    "description": "The first object widely accepted as a black hole, and the subject of a famous friendly wager between Stephen Hawking and Kip Thorne — a bet Hawking conceded in 1990. Found in 1964 by a sounding-rocket X-ray survey, Cygnus X-1 is a high-mass X-ray binary in which a black hole strips gas from the blue supergiant HDE 226868. The infalling material forms an accretion disc heated to millions of degrees, making it one of the brightest persistent X-ray sources in the sky. A 2021 radio-parallax campaign revised it both further away and heavier than previously believed.",
+    "type": "stellar",
+    "notable": "First black hole candidate to win broad scientific acceptance",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cygnus_X-1",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=Cygnus%20X-1"
+    },
+    "eventHorizonDiameter": {
+      "value": 125,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Hawking bet that Cygnus X-1 was not a black hole — as insurance, so that he would 'win' something either way.",
+      "The 2021 mass revision to 21 solar masses forced theorists to revisit how massive stars shed material before collapse.",
+      "It spins extremely rapidly, at well over 90% of the maximum rate general relativity allows."
+    ],
+    "wikipediaTitle": "Cygnus X-1",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Chandra_image_of_Cygnus_X-1.jpg/960px-Chandra_image_of_Cygnus_X-1.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Chandra image of Cygnus X-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "TON 618",
+    "alternateNames": [
+      "FBQS J122824.9+312837",
+      "Tonantzintla 618"
+    ],
+    "distanceFromEarth": {
+      "value": 18200000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 66000000000,
+      "unit": "solar masses"
+    },
+    "discovered": 1957,
+    "discoveredBy": [
+      "Braulio Iriarte",
+      "Enrique Chavira"
+    ],
+    "description": "One of the most massive black holes ever measured, powering an extraordinarily luminous hyperluminous quasar. TON 618 was catalogued in 1957 at the Tonantzintla Observatory as a faint blue star; only after quasars were understood in the 1960s did its redshift of 2.219 reveal it as an object shining from the early universe. The extreme width of its emission lines implies gas swirling at thousands of kilometres per second, which in turn implies a central mass of roughly 66 billion Suns. Its event horizon is many times wider than the Solar System.",
+    "type": "supermassive",
+    "notable": "Among the most massive black holes ever measured",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/TON_618",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=TON%20618"
+    },
+    "eventHorizonDiameter": {
+      "value": 389400,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Light needs roughly two weeks to cross its event horizon.",
+      "The quasar outshines the entire Milky Way by a factor of thousands.",
+      "Because the mass is derived from emission-line widths, the headline figure carries a large uncertainty."
+    ],
+    "wikipediaTitle": "TON 618",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/TON_618_SDSS9_version_3.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — TON 618"
+  },
+  {
+    "id": 5,
+    "name": "GW150914",
+    "alternateNames": [
+      "First gravitational-wave merger remnant"
+    ],
+    "distanceFromEarth": {
+      "value": 1400000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 62,
+      "unit": "solar masses"
+    },
+    "discovered": 2015,
+    "discoveredBy": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration"
+    ],
+    "description": "The remnant of the first gravitational-wave event ever detected, and the first direct observation of a binary black hole merger. On 14 September 2015 the twin LIGO interferometers registered a chirp lasting two tenths of a second as two black holes of about 36 and 29 solar masses spiralled together and coalesced. Roughly three solar masses of material were converted into gravitational-wave energy in an instant — briefly outshining all the stars in the observable universe combined. The detection confirmed a century-old prediction of general relativity and won the 2017 Nobel Prize in Physics.",
+    "type": "stellar",
+    "notable": "First gravitational-wave detection and first observed black hole merger",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/",
+      "wikipedia": "https://en.wikipedia.org/wiki/GW150914",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=GW150914"
+    },
+    "eventHorizonDiameter": {
+      "value": 366,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "The signal swept from 35 Hz to 250 Hz in 0.2 seconds — audible as a 'chirp' if shifted into hearing range.",
+      "The peak gravitational-wave power exceeded the combined light output of every star in the observable universe.",
+      "The waves had been travelling for about 1.4 billion years before reaching Earth."
+    ],
+    "wikipediaTitle": "GW150914",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MergingBlackHoles_V2.jpg/960px-MergingBlackHoles_V2.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — MergingBlackHoles V2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "V404 Cygni",
+    "alternateNames": [
+      "GS 2023+338",
+      "Nova Cygni 1938"
+    ],
+    "distanceFromEarth": {
+      "value": 7800,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 9,
+      "unit": "solar masses"
+    },
+    "discovered": 1989,
+    "discoveredBy": [
+      "Ginga X-ray observatory team",
+      "Fumiaki Makino"
+    ],
+    "description": "A low-mass X-ray binary famous for spectacular, unpredictable outbursts. V404 Cygni was first noticed as an optical nova in 1938, but its true nature emerged in 1989 when Japan's Ginga satellite caught it erupting in X-rays. The black hole draws gas from a companion star slightly smaller than the Sun. In June 2015 it woke up after 26 years of quiet and produced one of the best-observed accretion events on record, flaring erratically across radio, optical, X-ray and gamma-ray wavelengths and launching rapidly wobbling jets.",
+    "type": "stellar",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/swift/",
+      "wikipedia": "https://en.wikipedia.org/wiki/V404_Cygni",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=V404%20Cyg"
+    },
+    "eventHorizonDiameter": {
+      "value": 53,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Its 2015 outburst brightened by a factor of thousands within days.",
+      "The jets were seen to change direction in minutes, likely because the inner disc is precessing.",
+      "Its distance is unusually well determined thanks to a direct radio parallax measurement."
+    ],
+    "wikipediaTitle": "V404 Cygni",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/V404Cyg_XRT_halo_fullsize.jpg/960px-V404Cyg_XRT_halo_fullsize.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"V404 Cygni\""
+  },
+  {
+    "id": 7,
+    "name": "A0620-00",
+    "alternateNames": [
+      "V616 Monocerotis",
+      "Nova Monocerotis 1917"
+    ],
+    "distanceFromEarth": {
+      "value": 3300,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 6.6,
+      "unit": "solar masses"
+    },
+    "discovered": 1975,
+    "discoveredBy": [
+      "Ariel 5 team",
+      "Martin Elvis"
+    ],
+    "description": "For decades the closest known black hole to Earth, and still one of the best-characterised stellar-mass examples. Detected in 1975 when Britain's Ariel 5 satellite recorded a brilliant X-ray transient, A0620-00 is a quiescent low-mass X-ray binary: the black hole and an orange dwarf companion orbit each other every 7.75 hours. Because the system spends most of its time faint, astronomers can measure the companion star's motion cleanly, which is why its mass is considered among the most reliable of any stellar-mass black hole.",
+    "type": "stellar",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/A0620-00",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=A0620-00"
+    },
+    "eventHorizonDiameter": {
+      "value": 39,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Its 1975 outburst made it, briefly, the brightest X-ray source in the sky after the Sun.",
+      "The system had already been recorded as an optical nova in 1917, long before X-ray astronomy existed.",
+      "It held the title of 'nearest known black hole' until the Gaia discoveries of the 2020s."
+    ],
+    "wikipediaTitle": "A0620-00",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/V616MonLightCurve.png/960px-V616MonLightCurve.png",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"A0620-00\""
+  },
+  {
+    "id": 8,
+    "name": "Gaia BH1",
+    "alternateNames": [
+      "Gaia DR3 4373465352415301632"
+    ],
+    "distanceFromEarth": {
+      "value": 1560,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 9.62,
+      "unit": "solar masses"
+    },
+    "discovered": 2022,
+    "discoveredBy": [
+      "Kareem El-Badry",
+      "Hans-Walter Rix",
+      "Gaia collaboration"
+    ],
+    "description": "The closest known black hole to Earth. Gaia BH1 was found not by its X-ray glow but by the gentle wobble it induces in a Sun-like companion star, revealed in ESA's Gaia astrometric data and confirmed with follow-up spectroscopy in 2022. The two objects orbit every 186 days at roughly the Earth-Sun separation, and crucially the black hole is 'dormant' — it is not pulling in enough gas to shine, which is why it went unnoticed for so long. Its existence implies a large hidden population of quiet black holes in the solar neighbourhood.",
+    "type": "stellar",
+    "notable": "Closest confirmed black hole to Earth",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gaia_BH1",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=Gaia%20BH1"
+    },
+    "eventHorizonDiameter": {
+      "value": 57,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "It is roughly three times closer than the previous record holder, A0620-00.",
+      "It is 'dormant' — emitting essentially no X-rays, so only stellar motion betrays it.",
+      "Standard binary-evolution models struggle to explain how the companion survived so close to the progenitor star."
+    ],
+    "wikipediaTitle": "Gaia BH1",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gaia_BH1_PanSTARRS.jpg/960px-Gaia_BH1_PanSTARRS.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Gaia BH1\""
+  },
+  {
+    "id": 9,
+    "name": "Gaia BH2",
+    "alternateNames": [
+      "Gaia DR3 5870569352746779008"
+    ],
+    "distanceFromEarth": {
+      "value": 3800,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 8.9,
+      "unit": "solar masses"
+    },
+    "discovered": 2023,
+    "discoveredBy": [
+      "Kareem El-Badry",
+      "Gaia collaboration"
+    ],
+    "description": "The second dormant black hole uncovered in Gaia astrometry, announced in 2023 and located in the constellation Centaurus. Its companion is a red giant on an unusually wide orbit taking about 3.5 years to complete — so wide that essentially no material is transferred, keeping the black hole invisible in X-rays. Wide, quiet systems like Gaia BH2 are exactly the configurations traditional X-ray surveys are blind to, and finding them suggests the Milky Way holds many millions of similarly silent black holes.",
+    "type": "stellar",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gaia_BH2",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=Gaia%20BH2"
+    },
+    "eventHorizonDiameter": {
+      "value": 53,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "The orbit is about five times wider than Earth's, taking roughly 1,277 days.",
+      "Deep radio and X-ray searches found no emission at all, confirming how dormant it is.",
+      "Its red-giant companion will eventually expand enough to begin feeding the black hole."
+    ],
+    "wikipediaTitle": "Gaia BH2",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gaia_BH2_decaps_dr2.jpg/960px-Gaia_BH2_decaps_dr2.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Gaia BH2\""
+  },
+  {
+    "id": 10,
+    "name": "Gaia BH3",
+    "alternateNames": [
+      "Gaia DR3 4318465066420528000"
+    ],
+    "distanceFromEarth": {
+      "value": 1926,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 33,
+      "unit": "solar masses"
+    },
+    "discovered": 2024,
+    "discoveredBy": [
+      "Gaia collaboration",
+      "Pasquale Panuzzo"
+    ],
+    "description": "The most massive stellar-mass black hole known in the Milky Way, announced in April 2024 from a pre-release check of Gaia data. At 33 solar masses it is far heavier than the roughly 10-solar-mass objects typical of Galactic X-ray binaries, and comparable to the black holes LIGO detects in distant mergers. Its companion is an ancient, extremely metal-poor giant star, which supports the leading theory that the heaviest stellar black holes form from stars containing very few heavy elements — such stars lose less mass to stellar winds and so leave larger remnants.",
+    "type": "stellar",
+    "notable": "Most massive stellar-mass black hole known in the Milky Way",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gaia_BH3",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=Gaia%20BH3"
+    },
+    "eventHorizonDiameter": {
+      "value": 195,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "It is the first direct evidence that LIGO-class heavy black holes also exist nearby.",
+      "Its companion star's chemistry ties it to the ancient ED-2 stellar stream, debris of a shredded dwarf galaxy.",
+      "The pair orbit each other over roughly 11.6 years."
+    ],
+    "wikipediaTitle": "Gaia BH3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Artist%E2%80%99s_impression_of_the_system_with_the_most_massive_stellar_black_hole_in_our_galaxy_%28eso2408a%29.jpg/960px-Artist%E2%80%99s_impression_of_the_system_with_the_most_massive_stellar_black_hole_in_our_galaxy_%28eso2408a%29.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Gaia BH3\""
+  },
+  {
+    "id": 11,
+    "name": "GRS 1915+105",
+    "alternateNames": [
+      "V1487 Aquilae"
+    ],
+    "distanceFromEarth": {
+      "value": 36000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 12.4,
+      "unit": "solar masses"
+    },
+    "discovered": 1992,
+    "discoveredBy": [
+      "Alberto Castro-Tirado",
+      "Søren Brandt",
+      "Niels Lund"
+    ],
+    "description": "The prototypical microquasar — a stellar-mass black hole that mimics, in miniature, the jet-launching behaviour of a quasar. Discovered by the Granat satellite's WATCH instrument in 1992, GRS 1915+105 was the first object in the Galaxy seen to eject material at apparently superluminal speeds, an illusion produced by jets pointed nearly at us and moving at about 98% of light speed. It remained in near-continuous outburst for more than 25 years and cycles through more than a dozen distinct X-ray variability states, making it a natural laboratory for accretion physics.",
+    "type": "stellar",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/GRS_1915%2B105",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=GRS%201915%2B105"
+    },
+    "eventHorizonDiameter": {
+      "value": 73,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Its jets appear to move faster than light — a relativistic projection effect, not a violation of physics.",
+      "It spins near the theoretical maximum, dragging spacetime around with it.",
+      "One of its X-ray states is nicknamed the 'heartbeat', a regular pulsing cycle lasting tens of seconds."
+    ],
+    "wikipediaTitle": "GRS 1915+105",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/V1487AqlLightCurve.png/960px-V1487AqlLightCurve.png",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"GRS 1915+105\""
+  },
+  {
+    "id": 12,
+    "name": "GRO J1655-40",
+    "alternateNames": [
+      "V1033 Scorpii",
+      "Nova Scorpii 1994"
+    ],
+    "distanceFromEarth": {
+      "value": 11000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 6.3,
+      "unit": "solar masses"
+    },
+    "discovered": 1994,
+    "discoveredBy": [
+      "Compton Gamma Ray Observatory team",
+      "Shuang Nan Zhang"
+    ],
+    "description": "A microquasar discovered in 1994 by the Compton Gamma Ray Observatory, and the second Galactic source seen to launch superluminal-looking jets. GRO J1655-40 is notable for what its companion star reveals: the star's atmosphere is enriched in elements forged in a supernova, direct chemical evidence that the black hole was born in the explosive collapse of a massive star. The system is also moving through the Galaxy far faster than typical stars, apparently kicked by that same asymmetric explosion.",
+    "type": "stellar",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/GRO_J1655-40",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=GRO%20J1655-40"
+    },
+    "eventHorizonDiameter": {
+      "value": 37,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Supernova-forged elements in the companion star are a chemical fingerprint of the black hole's violent birth.",
+      "The system travels at over 100 km/s relative to nearby stars — a supernova 'kick'.",
+      "Chandra observations of it produced some of the clearest evidence for magnetically driven accretion-disc winds."
+    ],
+    "wikipediaTitle": "GRO J1655-40",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/GRO_J1655-40.jpg/960px-GRO_J1655-40.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"GRO J1655−40\""
+  },
+  {
+    "id": 13,
+    "name": "LMC X-1",
+    "distanceFromEarth": {
+      "value": 163000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 10.9,
+      "unit": "solar masses"
+    },
+    "discovered": 1969,
+    "discoveredBy": [
+      "Richard Price",
+      "Uhuru survey team"
+    ],
+    "description": "The first black hole identified outside the Milky Way, located in the Large Magellanic Cloud. LMC X-1 is a high-mass X-ray binary in which the black hole feeds on the wind from a hot, massive O-type companion. Because the Large Magellanic Cloud's distance is known to a few per cent — far better than for most Galactic sources — LMC X-1 provides unusually clean measurements of black hole mass and spin, making it a benchmark for calibrating techniques used on more distant systems.",
+    "type": "stellar",
+    "notable": "First black hole found outside the Milky Way",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/LMC_X-1",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=LMC%20X-1"
+    },
+    "eventHorizonDiameter": {
+      "value": 64,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Its host galaxy's well-known distance makes its mass and spin among the most precisely measured anywhere.",
+      "The black hole is fed by the companion's stellar wind rather than by direct overflow of material.",
+      "It has remained a persistent X-ray source since discovery, never switching off."
+    ],
+    "wikipediaTitle": "LMC X-1",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NGC_2079_and_LMC_X-1_HST.jpg/960px-NGC_2079_and_LMC_X-1_HST.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"LMC X-1\""
+  },
+  {
+    "id": 14,
+    "name": "LMC X-3",
+    "distanceFromEarth": {
+      "value": 160000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 6.98,
+      "unit": "solar masses"
+    },
+    "discovered": 1971,
+    "discoveredBy": [
+      "Uhuru survey team",
+      "Chuck Leong"
+    ],
+    "description": "A second black hole binary in the Large Magellanic Cloud, and one of the cleanest examples of a black hole accretion disc anywhere in the sky. LMC X-3 spends long stretches in a 'thermal' state in which the X-ray emission comes almost entirely from the hot disc itself, with little contamination from surrounding coronal gas. That simplicity has made it the reference object for continuum-fitting measurements of black hole spin, and a long-running test of how discs behave at different accretion rates.",
+    "type": "stellar",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/LMC_X-3",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=LMC%20X-3"
+    },
+    "eventHorizonDiameter": {
+      "value": 41,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Its accretion disc is unusually 'clean', making it a calibration standard for spin measurements.",
+      "The X-ray brightness varies on a roughly 100-200 day cycle.",
+      "Unlike LMC X-1, it spins relatively slowly — a useful contrast for testing theory."
+    ],
+    "wikipediaTitle": "LMC X-3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/LMC_X-3_%28Arrow%29.jpg/960px-LMC_X-3_%28Arrow%29.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"LMC X-3\""
+  },
+  {
+    "id": 15,
+    "name": "XTE J1650-500",
+    "distanceFromEarth": {
+      "value": 8500,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 3.8,
+      "unit": "solar masses"
+    },
+    "discovered": 2001,
+    "discoveredBy": [
+      "Rossi X-ray Timing Explorer team",
+      "Ronald Remillard"
+    ],
+    "description": "One of the smallest black holes ever measured, and for a time the record holder. Discovered as an X-ray transient by NASA's Rossi X-ray Timing Explorer in 2001, XTE J1650-500 has a mass of only around 3.8 Suns — close to the theoretical minimum, since below roughly three solar masses a collapsing core is expected to stabilise as a neutron star instead. Objects at this boundary are scientifically precious: they probe the 'mass gap' between the heaviest neutron stars and the lightest black holes.",
+    "type": "stellar",
+    "notable": "Among the smallest stellar-mass black holes measured",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/XTE_J1650-500",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=XTE%20J1650-500"
+    },
+    "eventHorizonDiameter": {
+      "value": 22,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Its event horizon is roughly the width of a large city.",
+      "It sits near the theoretical dividing line between neutron stars and black holes.",
+      "Its inner disc orbits so close in that X-ray flickering there cycles hundreds of times per second."
+    ],
+    "wikipediaTitle": "XTE J1650-500",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/XTE_J1650-500.jpg/960px-XTE_J1650-500.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"XTE J1650−500\""
+  },
+  {
+    "id": 16,
+    "name": "IGR J17091-3624",
+    "distanceFromEarth": {
+      "value": 28000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 3,
+      "unit": "solar masses"
+    },
+    "discovered": 2003,
+    "discoveredBy": [
+      "INTEGRAL team",
+      "Erik Kuulkers"
+    ],
+    "description": "A candidate for the lightest black hole known, and the source of the fastest 'wind' ever measured coming off a stellar-mass black hole. Found by ESA's INTEGRAL observatory in 2003, IGR J17091-3624 shows the same rhythmic 'heartbeat' X-ray pulsations as GRS 1915+105 but at far lower luminosity, implying a much smaller mass — possibly as little as three Suns. Chandra observations clocked material streaming away from its disc at roughly 3% of the speed of light, carrying off more matter than the black hole manages to swallow.",
+    "type": "stellar",
+    "notable": "Candidate for the least massive known black hole",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/IGR_J17091-3624",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=IGR%20J17091-3624"
+    },
+    "eventHorizonDiameter": {
+      "value": 18,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Its disc wind blows at about 32 million km/h — roughly ten times faster than typical.",
+      "It repeats the rare 'heartbeat' variability pattern otherwise seen only in GRS 1915+105.",
+      "The mass estimate is indirect, so its record-holder status remains debated."
+    ],
+    "wikipediaTitle": "IGR J17091-3624",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IGR_J17091-3624.jpg/960px-IGR_J17091-3624.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"IGR J17091-3624\""
+  },
+  {
+    "id": 17,
+    "name": "OGLE-2011-BLG-0462",
+    "alternateNames": [
+      "MOA-2011-BLG-191",
+      "OB110462"
+    ],
+    "distanceFromEarth": {
+      "value": 5150,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 7.1,
+      "unit": "solar masses"
+    },
+    "discovered": 2022,
+    "discoveredBy": [
+      "Kailash Sahu",
+      "Casey Lam",
+      "OGLE and MOA survey teams"
+    ],
+    "description": "The first isolated stellar-mass black hole ever detected — a black hole with no companion star at all. It betrayed itself in 2011 through gravitational microlensing: as it drifted in front of a background star in the direction of the Galactic bulge, its gravity briefly magnified and visibly displaced that star's light. Six years of precise Hubble astrometry were needed to disentangle the tiny shift and confirm a dark, compact mass of about seven Suns. Since most black holes are expected to be solitary and utterly dark, this technique may be the only way to find the bulk of them.",
+    "type": "stellar",
+    "notable": "First isolated (companionless) stellar black hole detected",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/hubble/",
+      "wikipedia": "https://en.wikipedia.org/wiki/OGLE-2011-BLG-0462",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=OGLE-2011-BLG-0462"
+    },
+    "eventHorizonDiameter": {
+      "value": 42,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Two independent teams analysed the same data and initially disagreed on the mass — 7.1 versus 1.6-4.4 solar masses.",
+      "The lensing event shifted the background star's apparent position by about a milliarcsecond.",
+      "Microlensing is currently the only proven way to weigh a black hole that has no companion."
+    ],
+    "wikipediaTitle": "OGLE-2011-BLG-0462",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rogue_black_hole_OGLE-2011-BLG-0462.gif/960px-Rogue_black_hole_OGLE-2011-BLG-0462.gif",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"OGLE-2011-BLG-0462\""
+  },
+  {
+    "id": 18,
+    "name": "Cygnus A*",
+    "alternateNames": [
+      "3C 405",
+      "Cyg A"
+    ],
+    "distanceFromEarth": {
+      "value": 760000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 2500000000,
+      "unit": "solar masses"
+    },
+    "discovered": 1953,
+    "discoveredBy": [
+      "Walter Baade",
+      "Rudolph Minkowski"
+    ],
+    "description": "The nearest powerful radio galaxy, and the object that first showed astronomers what a supermassive black hole can do to its surroundings. Baade and Minkowski identified the optical counterpart of the intense radio source Cygnus A in 1953. Twin jets from the central black hole punch some 300,000 light-years out into intergalactic space, terminating in enormous radio lobes that inflate cavities in the surrounding hot cluster gas. Cygnus A remains the textbook example of jet-driven 'radio-mode' feedback, the process by which black holes regulate star formation in their host galaxies.",
+    "type": "supermassive",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cygnus_A",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=Cygnus%20A"
+    },
+    "eventHorizonDiameter": {
+      "value": 14750,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Its radio lobes span some 300,000 light-years — several times the width of the Milky Way.",
+      "A second, hidden black hole was reported in 2016 from an unexplained infrared source near the nucleus.",
+      "The jets are carving cavities in the cluster's hot gas, visibly reheating it."
+    ],
+    "wikipediaTitle": "Cygnus A",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/3c405.jpg/960px-3c405.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Cygnus A\""
+  },
+  {
+    "id": 19,
+    "name": "Centaurus A*",
+    "alternateNames": [
+      "NGC 5128*",
+      "Cen A*"
+    ],
+    "distanceFromEarth": {
+      "value": 12000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 55000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2001,
+    "discoveredBy": [
+      "Alessandro Marconi",
+      "ESO and Chandra teams"
+    ],
+    "description": "The nearest active galactic nucleus, and one of the most photographed objects in the southern sky. Centaurus A is a peculiar elliptical galaxy crossed by a thick, dusty lane — the wreckage of a spiral galaxy it consumed. Its central black hole, weighed at roughly 55 million solar masses in 2001, drives a jet whose base was imaged in remarkable detail by the Event Horizon Telescope in 2021. Because it is so close, Cen A lets astronomers study jet launching and collimation on scales unreachable in more distant galaxies.",
+    "type": "supermassive",
+    "notable": "Nearest active galactic nucleus to Earth",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Centaurus_A",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=Centaurus%20A"
+    },
+    "eventHorizonDiameter": {
+      "value": 325,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "The EHT's 2021 image showed the jet is brightest along its edges, not its centre — a clue to how jets are confined.",
+      "Its dust lane is debris from a galaxy merger still being digested.",
+      "It is one of the brightest radio sources in the entire sky."
+    ],
+    "wikipediaTitle": "Centaurus A",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ESO_Centaurus_A_LABOCA.jpg/960px-ESO_Centaurus_A_LABOCA.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Centaurus A\""
+  },
+  {
+    "id": 20,
+    "name": "3C 273*",
+    "alternateNames": [
+      "PKS 1226+023",
+      "Quasar 3C 273"
+    ],
+    "distanceFromEarth": {
+      "value": 2400000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 886000000,
+      "unit": "solar masses"
+    },
+    "discovered": 1963,
+    "discoveredBy": [
+      "Maarten Schmidt",
+      "Cyril Hazard"
+    ],
+    "description": "The first quasar ever identified, and the discovery that revealed supermassive black holes to astronomy. In 1963 Maarten Schmidt recognised that the puzzling spectral lines of the star-like radio source 3C 273 were ordinary hydrogen lines shifted far to the red — meaning the object lay billions of light-years away and yet outshone entire galaxies. That realisation demanded an energy source far more efficient than nuclear fusion, and accretion onto a supermassive black hole was the only workable answer. 3C 273 is still the optically brightest quasar in the sky.",
+    "type": "supermassive",
+    "notable": "First quasar ever identified (1963)",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/hubble/",
+      "wikipedia": "https://en.wikipedia.org/wiki/3C_273",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=3C%20273"
+    },
+    "eventHorizonDiameter": {
+      "value": 5227,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "It is bright enough that a large amateur telescope can pick it out, despite being 2.4 billion light-years away.",
+      "Schmidt's redshift measurement is widely regarded as one of the pivotal moments in 20th-century astronomy.",
+      "Its visible jet extends about 200,000 light-years from the nucleus."
+    ],
+    "wikipediaTitle": "3C 273",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Best_image_of_bright_quasar_3C_273_%2810953173335%29.jpg/960px-Best_image_of_bright_quasar_3C_273_%2810953173335%29.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"3C 273\""
+  },
+  {
+    "id": 21,
+    "name": "M31* (Andromeda)",
+    "alternateNames": [
+      "P3",
+      "NGC 224*",
+      "Andromeda Galaxy black hole"
+    ],
+    "distanceFromEarth": {
+      "value": 2537000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 140000000,
+      "unit": "solar masses"
+    },
+    "discovered": 1993,
+    "discoveredBy": [
+      "Ralf Bender",
+      "Hubble Space Telescope teams"
+    ],
+    "description": "The supermassive black hole at the centre of the Andromeda Galaxy, our nearest large galactic neighbour — and, at roughly 140 million solar masses, more than thirty times heavier than the Milky Way's own. Hubble imaging in the 1990s and 2000s resolved Andromeda's nucleus into a bizarre double structure, eventually explained as an eccentric disc of old red stars orbiting the black hole, with a compact cluster of hot blue stars ringing it much closer in. Andromeda's black hole is quiescent today, accreting very little.",
+    "type": "supermassive",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/hubble/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andromeda_Galaxy",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=M31"
+    },
+    "eventHorizonDiameter": {
+      "value": 826,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "It is over 30 times more massive than Sagittarius A*, despite sitting in a fairly similar galaxy.",
+      "Andromeda's nucleus looks double because of an eccentric ring of stars, not two separate clusters.",
+      "It will eventually merge with Sagittarius A* when the two galaxies collide in about 4.5 billion years."
+    ],
+    "wikipediaTitle": "Andromeda Galaxy",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Andromeda_Galaxy_2025.png/960px-Andromeda_Galaxy_2025.png",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Andromeda Galaxy\""
+  },
+  {
+    "id": 22,
+    "name": "NGC 4889*",
+    "alternateNames": [
+      "Caldwell 35*",
+      "Coma B*"
+    ],
+    "distanceFromEarth": {
+      "value": 308000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 21000000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2011,
+    "discoveredBy": [
+      "Nicholas McConnell",
+      "Chung-Pei Ma"
+    ],
+    "description": "One of the most massive black holes with a directly measured dynamical mass, sitting at the heart of a giant elliptical galaxy in the Coma Cluster. In 2011 McConnell and Ma used stellar velocity measurements from Keck and Gemini to weigh it at around 21 billion solar masses — an order of magnitude beyond M87*. Unlike quasar mass estimates inferred from emission lines, this figure comes from watching how fast stars move under the black hole's gravity, making it one of the most trustworthy measurements at the extreme end of the mass scale. The black hole is now dormant, having exhausted its fuel supply.",
+    "type": "supermassive",
+    "notable": "One of the most massive dynamically weighed black holes",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/NGC_4889",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=NGC%204889"
+    },
+    "eventHorizonDiameter": {
+      "value": 123900,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Stars near its centre move at over 400 km/s under its gravity.",
+      "Its mass is measured from stellar motions rather than inferred from emission lines, making it especially reliable.",
+      "It is dormant now, but must once have powered an extraordinarily luminous quasar."
+    ],
+    "wikipediaTitle": "NGC 4889",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Caldwell_35.jpg/960px-Caldwell_35.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"NGC 4889\""
+  },
+  {
+    "id": 23,
+    "name": "Holmberg 15A*",
+    "alternateNames": [
+      "Holm 15A*",
+      "Abell 85 BCG*"
+    ],
+    "distanceFromEarth": {
+      "value": 700000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 40000000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2019,
+    "discoveredBy": [
+      "Kianusch Mehrgan",
+      "Jens Thomas",
+      "Roberto Saglia"
+    ],
+    "description": "The most massive black hole ever weighed by directly modelling stellar orbits. Holmberg 15A is the enormous central galaxy of the Abell 85 cluster, and in 2019 a Munich-led team using VLT spectroscopy derived a central mass of roughly 40 billion Suns. The evidence is written into the galaxy's core: it has a vast, diffuse centre depleted of stars, as though something scoured them out. That is exactly what is expected if two supermassive black holes merged, flinging stars away as they spiralled together.",
+    "type": "supermassive",
+    "notable": "Most massive black hole measured by direct stellar-orbit modelling",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holmberg_15A",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=Holmberg%2015A"
+    },
+    "eventHorizonDiameter": {
+      "value": 236000,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Its event horizon is many times wider than the entire Solar System.",
+      "The galaxy's hollowed-out core is fossil evidence of a past black hole merger.",
+      "Light would take roughly nine days to cross it."
+    ],
+    "wikipediaTitle": "Holmberg 15A",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Holmberg_15A_chandra.jpg/960px-Holmberg_15A_chandra.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Holmberg 15A\""
+  },
+  {
+    "id": 24,
+    "name": "NGC 1277*",
+    "distanceFromEarth": {
+      "value": 220000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 17000000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2012,
+    "discoveredBy": [
+      "Remco van den Bosch",
+      "Karl Gebhardt"
+    ],
+    "description": "A black hole that broke the rules. When van den Bosch's team weighed the nucleus of the small lenticular galaxy NGC 1277 in 2012, they found a mass of around 17 billion Suns — an astonishing 14% of the galaxy's entire stellar mass, where a few tenths of a per cent is normal. NGC 1277 also turns out to be a 'relic' galaxy that stopped forming stars roughly 10 billion years ago and has drifted through the Perseus Cluster untouched ever since, effectively preserving what a young massive galaxy looked like. Later analyses have revised the mass down somewhat, but it remains a striking outlier.",
+    "type": "supermassive",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/hubble/",
+      "wikipedia": "https://en.wikipedia.org/wiki/NGC_1277",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=NGC%201277"
+    },
+    "eventHorizonDiameter": {
+      "value": 100300,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "The black hole may account for over a tenth of the galaxy's stellar mass — normally it is a fraction of a per cent.",
+      "NGC 1277 is a 'relic' galaxy, essentially frozen since the early universe.",
+      "Its extreme mass ratio challenges the idea that black holes and galaxies always grow in lockstep."
+    ],
+    "wikipediaTitle": "NGC 1277",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/NGC_1277_viewed_by_Hubble.jpg/960px-NGC_1277_viewed_by_Hubble.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"NGC 1277\""
+  },
+  {
+    "id": 25,
+    "name": "OJ 287 (primary)",
+    "alternateNames": [
+      "OJ 287",
+      "Binary blazar OJ 287"
+    ],
+    "distanceFromEarth": {
+      "value": 3500000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 18300000000,
+      "unit": "solar masses"
+    },
+    "discovered": 1982,
+    "discoveredBy": [
+      "Aimo Sillanpää",
+      "Mauri Valtonen"
+    ],
+    "description": "The best-established supermassive black hole binary known, and a remarkable test of general relativity. OJ 287 is a blazar whose brightness spikes roughly every 12 years, in a pattern recorded in photographic plates going back to the 1890s. Sillanpää and colleagues explained it in 1988 as a smaller black hole of about 150 million solar masses plunging twice per orbit through the accretion disc of a far larger primary. Predicting exactly when those flares occur requires modelling relativistic orbital precession and gravitational-wave energy loss — and the predictions have repeatedly landed within hours.",
+    "type": "supermassive",
+    "notable": "Best-confirmed supermassive black hole binary",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/fermi/",
+      "wikipedia": "https://en.wikipedia.org/wiki/OJ_287",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=OJ%20287"
+    },
+    "eventHorizonDiameter": {
+      "value": 107970,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Its brightness record stretches back to 1891, one of the longest continuous datasets in astronomy.",
+      "A 2019 flare arrived within four hours of the predicted time, over a 12-year orbit.",
+      "The two black holes are slowly spiralling together and will eventually merge."
+    ],
+    "wikipediaTitle": "OJ 287",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SizesCompared-GalaxyOJ287CentralBlackHoles%26SolarSystem.jpg/960px-SizesCompared-GalaxyOJ287CentralBlackHoles%26SolarSystem.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"OJ 287\""
+  },
+  {
+    "id": 26,
+    "name": "S5 0014+81*",
+    "distanceFromEarth": {
+      "value": 12100000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 40000000000,
+      "unit": "solar masses"
+    },
+    "discovered": 1980,
+    "discoveredBy": [
+      "Helmut Kühr",
+      "S5 radio survey team"
+    ],
+    "description": "A hyperluminous blazar in the early universe hosting one of the heaviest black holes on record. Catalogued in the S5 radio survey around 1980 and later measured at redshift 3.366, S5 0014+81 appears extraordinarily bright partly because its jet points almost directly at Earth, beaming its radiation towards us. The inferred mass of roughly 40 billion Suns raises a hard question that JWST has since sharpened: how could a black hole grow so enormous within the first two billion years after the Big Bang?",
+    "type": "supermassive",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/fermi/",
+      "wikipedia": "https://en.wikipedia.org/wiki/S5_0014%2B81",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=S5%200014%2B81"
+    },
+    "eventHorizonDiameter": {
+      "value": 236000,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Its light left when the universe was under two billion years old.",
+      "It consumes an estimated 4,000 solar masses of material per year.",
+      "The apparent luminosity is boosted by relativistic beaming, so the mass estimate is uncertain."
+    ],
+    "wikipediaTitle": "S5 0014+81",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Molecular_Torus_Surrounds_Black_Hole.jpg/960px-Molecular_Torus_Surrounds_Black_Hole.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"S5 0014+81\""
+  },
+  {
+    "id": 27,
+    "name": "Messier 84*",
+    "alternateNames": [
+      "NGC 4374*",
+      "M84*"
+    ],
+    "distanceFromEarth": {
+      "value": 60000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 1500000000,
+      "unit": "solar masses"
+    },
+    "discovered": 1997,
+    "discoveredBy": [
+      "Gary Bower",
+      "Hubble STIS team"
+    ],
+    "description": "A supermassive black hole in a Virgo Cluster elliptical galaxy, weighed in 1997 using one of the most elegant measurements Hubble has made. Pointing the STIS spectrograph across the nucleus of M84, Bower's team recorded gas on one side rushing towards us and gas on the other rushing away, producing a sharp zigzag in the spectrum. The size of that velocity jump translates directly into the enclosed mass — about 1.5 billion Suns. The result was among the earliest to establish that essentially every large galaxy harbours a supermassive black hole.",
+    "type": "supermassive",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/hubble/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Messier_84",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=M84"
+    },
+    "eventHorizonDiameter": {
+      "value": 8850,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "The 'zigzag' in its Hubble spectrum is one of the most reproduced pieces of black hole evidence in textbooks.",
+      "Gas near the nucleus orbits at roughly 400 km/s.",
+      "It was one of the discoveries that turned supermassive black holes from exotic to expected."
+    ],
+    "wikipediaTitle": "Messier 84",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_fascinating_core.jpg/960px-A_fascinating_core.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Messier 84\""
+  },
+  {
+    "id": 28,
+    "name": "Markarian 231*",
+    "alternateNames": [
+      "Mrk 231",
+      "UGC 8058*"
+    ],
+    "distanceFromEarth": {
+      "value": 581000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 150000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2015,
+    "discoveredBy": [
+      "Youjun Lu",
+      "Chang-Shuo Yan",
+      "Hubble team"
+    ],
+    "description": "The nearest quasar to Earth, and a strong candidate binary black hole. Markarian 231 is a violently disturbed galaxy still settling after a major merger, wrapped in dust and driving enormous outflows of gas. In 2015 a Hubble ultraviolet study found the centre of its accretion disc strangely dim — the signature expected if a second black hole of roughly four million solar masses is orbiting inside and clearing a gap in the disc. If confirmed, it is a snapshot of the merger process that builds the largest black holes.",
+    "type": "supermassive",
+    "notable": "Nearest quasar to Earth",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/hubble/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Markarian_231",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=Mrk%20231"
+    },
+    "eventHorizonDiameter": {
+      "value": 885,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "A gap in its ultraviolet emission is the main evidence for a hidden second black hole.",
+      "Its outflows are expelling gas fast enough to starve the galaxy of star-forming material.",
+      "The two black holes are expected to merge within a few hundred thousand years."
+    ],
+    "wikipediaTitle": "Markarian 231",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hubble_Interacting_Galaxy_UGC_8058_%282008-04-24%29.jpg/960px-Hubble_Interacting_Galaxy_UGC_8058_%282008-04-24%29.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Markarian 231\""
+  },
+  {
+    "id": 29,
+    "name": "NGC 6240 (dual nuclei)",
+    "alternateNames": [
+      "NGC 6240",
+      "IC 4625"
+    ],
+    "distanceFromEarth": {
+      "value": 400000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 400000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2002,
+    "discoveredBy": [
+      "Stefanie Komossa",
+      "Chandra X-ray Observatory team"
+    ],
+    "description": "A galaxy caught mid-collision, with two supermassive black holes visibly spiralling towards each other. In 2002 Chandra resolved two distinct hard X-ray point sources in the tangled core of NGC 6240, separated by only about 3,000 light-years — the first unambiguous image of a pair of active supermassive black holes in a single galaxy. Later adaptive-optics work suggested a possible third nucleus. NGC 6240 is the clearest visual confirmation that galaxy mergers deliver black holes into orbit around one another, the pathway by which the most massive black holes are assembled.",
+    "type": "supermassive",
+    "notable": "First clear image of two active supermassive black holes in one galaxy",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/NGC_6240",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=NGC%206240"
+    },
+    "eventHorizonDiameter": {
+      "value": 2360,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "The two nuclei are separated by only around 3,000 light-years and closing.",
+      "A 2020 study argued for a third supermassive black hole in the same core.",
+      "The merger has triggered a burst of star formation across the whole galaxy."
+    ],
+    "wikipediaTitle": "NGC 6240",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hubble_revisits_tangled_NGC_6240.jpg/960px-Hubble_revisits_tangled_NGC_6240.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — NGC 6240"
+  },
+  {
+    "id": 30,
+    "name": "J0313-1806*",
+    "alternateNames": [
+      "QSO J0313-1806",
+      "Quasar J0313-1806"
+    ],
+    "distanceFromEarth": {
+      "value": 13030000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 1600000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2021,
+    "discoveredBy": [
+      "Feige Wang",
+      "Jinyi Yang",
+      "Xiaohui Fan"
+    ],
+    "description": "One of the most distant quasars known, seen as it was just 670 million years after the Big Bang. Announced in 2021 at a redshift of 7.64, J0313-1806 already contained a black hole of about 1.6 billion solar masses — far too large to have grown from an ordinary stellar remnant in the time available, even accreting continuously at the theoretical maximum rate. Objects like this are the strongest argument that the first black hole 'seeds' formed by the direct collapse of huge gas clouds rather than from dying stars. It also drives a powerful outflow, showing that black hole feedback was already at work in the infant universe.",
+    "type": "supermassive",
+    "notable": "Among the most distant quasars ever observed",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/J0313-1806",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=J0313-1806"
+    },
+    "eventHorizonDiameter": {
+      "value": 9440,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Its light has been travelling for over 13 billion years.",
+      "It is too massive to have formed from a collapsed star, favouring 'direct collapse' seed formation.",
+      "It was already blowing gas out of its host galaxy at 20% of the speed of light."
+    ],
+    "wikipediaTitle": "J0313-1806",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/QSO_J031343.84%E2%88%92180636.4.png",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — J0313-1806"
+  },
+  {
+    "id": 31,
+    "name": "NGC 1600*",
+    "distanceFromEarth": {
+      "value": 200000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 17000000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2016,
+    "discoveredBy": [
+      "Jens Thomas",
+      "Chung-Pei Ma",
+      "Karl Gebhardt"
+    ],
+    "description": "A 17-billion-solar-mass black hole found somewhere it was not expected. Monster black holes were assumed to live in the crowded centres of rich galaxy clusters, but NGC 1600 sits in a sparse group of galaxies in a relative cosmic backwater. Thomas and colleagues weighed it in 2016 from stellar motions, and found the stars at the galaxy's centre moving slowly and on peculiar orbits — a hollowed-out core consistent with a past merger of two black holes. Its discovery suggested such giants may be considerably more common than anyone thought.",
+    "type": "supermassive",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/NGC_1600",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=NGC%201600"
+    },
+    "eventHorizonDiameter": {
+      "value": 100300,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "It lives in a sparse galaxy group, not the rich cluster such giants were expected to require.",
+      "Its host galaxy has a depleted core, hinting at an earlier black hole merger.",
+      "It is about ten times heavier than the average for a galaxy of its size."
+    ],
+    "wikipediaTitle": "NGC 1600",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cutout_HST_7886_22_NIC_NIC2_total_sci_NGC_1600.jpg/960px-Cutout_HST_7886_22_NIC_NIC2_total_sci_NGC_1600.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"NGC 1600\""
+  },
+  {
+    "id": 32,
+    "name": "M60-UCD1*",
+    "alternateNames": [
+      "M60-UCD1",
+      "NGC 4649-UCD1"
+    ],
+    "distanceFromEarth": {
+      "value": 54000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 21000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2014,
+    "discoveredBy": [
+      "Anil Seth",
+      "Chandra and Gemini teams"
+    ],
+    "description": "A supermassive black hole crammed into one of the densest small galaxies known. M60-UCD1 is an ultra-compact dwarf near the giant elliptical M60, packing about 140 million stars into a region only some 300 light-years across. In 2014 Seth's team showed that its central black hole weighs about 21 million Suns — roughly 15% of the whole object's mass. The most likely explanation is that M60-UCD1 is the stripped remnant core of a once much larger galaxy that M60 tore apart, leaving the black hole and the innermost stars behind.",
+    "type": "supermassive",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/chandra/",
+      "wikipedia": "https://en.wikipedia.org/wiki/M60-UCD1",
+      "documentation": "https://ned.ipac.caltech.edu/byname?objname=M60-UCD1"
+    },
+    "eventHorizonDiameter": {
+      "value": 124,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "The night sky seen from inside M60-UCD1 would blaze with millions of visible stars.",
+      "The black hole makes up about 15% of the galaxy's total mass.",
+      "It is probably the surviving core of a galaxy stripped apart by its giant neighbour."
+    ],
+    "wikipediaTitle": "M60-UCD1",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/M60-UCD1_by_HST.jpg/960px-M60-UCD1_by_HST.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"M60-UCD1\""
+  },
+  {
+    "id": 33,
+    "name": "HLX-1",
+    "alternateNames": [
+      "ESO 243-49 HLX-1",
+      "Hyper-Luminous X-ray source 1"
+    ],
+    "distanceFromEarth": {
+      "value": 290000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 20000,
+      "unit": "solar masses"
+    },
+    "discovered": 2009,
+    "discoveredBy": [
+      "Sean Farrell",
+      "Natalie Webb",
+      "Didier Barret"
+    ],
+    "description": "The strongest known candidate for an intermediate-mass black hole, and long the best hope of filling the vast gap between stellar-mass and supermassive black holes. Farrell's team found HLX-1 in 2009 in XMM-Newton data, sitting off-centre in the galaxy ESO 243-49. It is far too luminous in X-rays to be a stellar-mass object accreting normally, implying a mass of around 20,000 Suns. Its properties suggest it may be the surviving nucleus of a dwarf galaxy that the larger galaxy is in the process of swallowing.",
+    "type": "intermediate",
+    "notable": "Strongest known intermediate-mass black hole candidate",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/HLX-1",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=HLX-1"
+    },
+    "eventHorizonDiameter": {
+      "value": 118000,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "It outshines the brightest stellar-mass X-ray sources by a factor of about 100.",
+      "It lies off to one side of its host galaxy, not at the centre — a clue to its origin.",
+      "Intermediate-mass black holes are the rarest and least understood class, making HLX-1 unusually valuable."
+    ],
+    "wikipediaTitle": "HLX-1",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESO_243-49_%28HST%29.jpg/960px-ESO_243-49_%28HST%29.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"HLX-1\""
+  },
+  {
+    "id": 34,
+    "name": "GW190521",
+    "alternateNames": [
+      "GW190521 remnant"
+    ],
+    "distanceFromEarth": {
+      "value": 17000000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 142,
+      "unit": "solar masses"
+    },
+    "discovered": 2020,
+    "discoveredBy": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration"
+    ],
+    "description": "The first intermediate-mass black hole ever observed forming. Detected in May 2019 and announced in 2020, this merger combined black holes of roughly 85 and 66 solar masses into a remnant of about 142 — squarely inside the intermediate-mass range. Both progenitors were awkward for theory: stars in that mass range are expected to be destroyed entirely by pair-instability supernovae, leaving nothing behind. The favoured explanation is that the progenitors were themselves the products of earlier mergers, black holes built up in generations inside a dense star cluster.",
+    "type": "intermediate",
+    "notable": "First direct observation of an intermediate-mass black hole forming",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/GW190521",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=GW190521"
+    },
+    "eventHorizonDiameter": {
+      "value": 838,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "The signal was only four cycles long — the shortest, most ambiguous detection LIGO had published.",
+      "Around eight solar masses of material was radiated away as gravitational waves.",
+      "Its 85-solar-mass progenitor should not exist under standard stellar theory, implying it was itself a merger product."
+    ],
+    "wikipediaTitle": "GW190521",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PhysRevLett.125.101102_Fig1.png/960px-PhysRevLett.125.101102_Fig1.png",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"GW190521\""
+  },
+  {
+    "id": 35,
+    "name": "3XMM J215022.4-055108",
+    "alternateNames": [
+      "J2150-0551"
+    ],
+    "distanceFromEarth": {
+      "value": 740000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 50000,
+      "unit": "solar masses"
+    },
+    "discovered": 2020,
+    "discoveredBy": [
+      "Dacheng Lin",
+      "Hubble and XMM-Newton teams"
+    ],
+    "description": "An intermediate-mass black hole caught in the act of tearing a star apart. First flagged as an X-ray flare in XMM-Newton archival data, it was confirmed in 2020 when Hubble showed the source was not in the centre of any galaxy but inside a dense star cluster at the edge of a larger one. The flare was a tidal disruption event: a star wandered too close and was shredded, briefly lighting the black hole up. Because tidal disruptions reveal otherwise invisible black holes, this detection method may be the most promising route to finding the missing intermediate-mass population.",
+    "type": "intermediate",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/hubble/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tidal_disruption_event",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=3XMM%20J215022.4-055108"
+    },
+    "eventHorizonDiameter": {
+      "value": 295000,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "It was found because it shredded a passing star, producing a bright X-ray flare.",
+      "Hubble imaging placed it in a dense star cluster rather than a galactic nucleus — likely a stripped dwarf galaxy core.",
+      "Tidal disruption events may be the best way to census the hidden intermediate-mass population."
+    ],
+    "wikipediaTitle": "Tidal disruption event",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tde-simulation.jpg/960px-Tde-simulation.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — \"Tidal disruption event\""
+  }
+]
