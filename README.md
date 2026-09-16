@@ -1,6 +1,6 @@
 # NASA Black Hole Explorer
 
-An interactive catalogue of 35 confirmed black holes — distance from Earth, mass, event-horizon
+An interactive catalogue of 53 confirmed black holes — distance from Earth, mass, event-horizon
 scale, discovery history, and a verified source link for every record.
 
 React 18 · TypeScript · Vite 5 · TailwindCSS 3 · lucide-react
@@ -81,7 +81,7 @@ src/
 
 ## Data
 
-35 records: 18 supermassive, 14 stellar, 3 intermediate. No primordial black hole has ever been
+53 records (discoveries through August 2026): 30 supermassive, 17 stellar, 6 intermediate. No primordial black hole has ever been
 confirmed, so that classification is present in the type system and filter UI but intentionally
 holds no records.
 
@@ -137,7 +137,7 @@ and full `prefers-reduced-motion` support that collapses every animation.
 
 ## Performance
 
-- Search debounced; cards `memo`-ised so filtering does not re-render 35 subtrees
+- Search debounced; cards `memo`-ised so filtering does not re-render 53 subtrees
 - Filtering, sorting and statistics memoised on their inputs
 - Images lazy-loaded with `decoding="async"` and a skeleton placeholder
 - Vendor, icons and app code split into separate chunks

@@ -1398,5 +1398,705 @@
     "wikipediaTitle": "Tidal disruption event",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tde-simulation.jpg/960px-Tde-simulation.jpg",
     "imageCredit": "Wikimedia Commons via English Wikipedia — \"Tidal disruption event\""
+  },
+  {
+    "id": 36,
+    "name": "Omega Centauri IMBH",
+    "alternateNames": [
+      "ω Centauri black hole",
+      "NGC 5139 central black hole"
+    ],
+    "distanceFromEarth": {
+      "value": 17700,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 8200,
+      "unit": "solar masses"
+    },
+    "discovered": 2024,
+    "discoveredBy": [
+      "Maximilian Häberle",
+      "Nadine Neumayer",
+      "Anil Seth"
+    ],
+    "description": "An intermediate-mass black hole at the heart of Omega Centauri, the Milky Way's largest globular cluster and probably the stripped core of a dwarf galaxy swallowed long ago. A team led by Maximilian Häberle at the Max Planck Institute for Astronomy combed through more than 500 Hubble images spanning two decades and found seven stars in the cluster's centre moving too fast to stay bound to it. Only a compact mass of at least 8,200 Suns can hold on to them. Published in Nature in July 2024, it is the most convincing case yet for the long-missing class of black holes between stellar and supermassive.",
+    "type": "intermediate",
+    "notable": "Nearest massive black hole to Earth and the strongest intermediate-mass candidate",
+    "links": {
+      "nasa": "https://science.nasa.gov/missions/hubble/hubble-finds-strong-evidence-for-intermediate-mass-black-hole-in-omega-centauri/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Omega_Centauri",
+      "documentation": "https://arxiv.org/abs/2405.06015"
+    },
+    "eventHorizonDiameter": {
+      "value": 48430,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "At about 17,700 light-years, it is closer to Earth than Sagittarius A*.",
+      "The measurement used around 1.4 million stellar motions built from 20 years of Hubble archival data.",
+      "8,200 solar masses is a lower limit — the true mass could be considerably higher."
+    ],
+    "wikipediaTitle": "Omega Centauri",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Omega_Centauri_Stars.png/960px-Omega_Centauri_Stars.png",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Omega Centauri"
+  },
+  {
+    "id": 37,
+    "name": "GN-z11*",
+    "alternateNames": [
+      "GN-z11 black hole"
+    ],
+    "distanceFromEarth": {
+      "value": 13400000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 1600000,
+      "unit": "solar masses"
+    },
+    "discovered": 2024,
+    "discoveredBy": [
+      "Roberto Maiolino",
+      "JADES Collaboration"
+    ],
+    "description": "The black hole at the centre of GN-z11, a remarkably bright galaxy seen just over 400 million years after the Big Bang. The galaxy itself was found by Hubble in 2016; in January 2024 a team led by Roberto Maiolino used JWST spectra from the JADES survey to show that its light is partly powered by an accreting black hole of about 1.6 million solar masses. It appears to be feeding several times faster than the Eddington rate, and its output is driving gas out of its young host galaxy.",
+    "type": "supermassive",
+    "notable": "One of the earliest actively growing black holes known",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/GN-z11",
+      "documentation": "https://arxiv.org/abs/2305.12492"
+    },
+    "eventHorizonDiameter": {
+      "value": 9.4,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "It was seen when the universe was roughly 3% of its current age.",
+      "It may be accreting at about five times the Eddington limit.",
+      "Its discovery was published in Nature in 2024."
+    ],
+    "wikipediaTitle": "GN-z11",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Distant_galaxy_GN-z11_in_GOODS-N_image_by_HST.jpg/960px-Distant_galaxy_GN-z11_in_GOODS-N_image_by_HST.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — GN-z11"
+  },
+  {
+    "id": 38,
+    "name": "LID-568",
+    "alternateNames": [
+      "COSMOS LID-568"
+    ],
+    "distanceFromEarth": {
+      "value": 12300000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 7200000,
+      "unit": "solar masses"
+    },
+    "discovered": 2024,
+    "discoveredBy": [
+      "Hyewon Suh",
+      "Julia Scharwächter"
+    ],
+    "description": "A low-mass supermassive black hole seen about 1.5 billion years after the Big Bang. Hyewon Suh and colleagues at NOIRLab picked it out of Chandra's COSMOS Legacy X-ray survey because it was bright in X-rays but nearly invisible at other wavelengths. JWST's NIRSpec integral-field spectrograph then revealed powerful gas outflows and a black hole of about 7.2 million solar masses consuming matter at roughly 40 times the Eddington limit. Published in Nature Astronomy in November 2024, it suggests that short bursts of super-Eddington feeding could explain how early black holes grew so big so fast. A later reanalysis correcting for heavy dust argues the mass could be much higher.",
+    "type": "supermassive",
+    "notable": "Fastest-feeding black hole found in the early universe",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eddington_luminosity",
+      "documentation": "https://www.nature.com/articles/s41550-024-02402-9"
+    },
+    "eventHorizonDiameter": {
+      "value": 42.5,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "It appears to be feeding at about 40 times the theoretical Eddington limit.",
+      "It is invisible in Hubble images and was spotted only because of its X-ray glow.",
+      "Its mass estimate is debated: correcting for dust could make it ~40 times heavier."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "GW230529",
+    "alternateNames": [
+      "S230529ay"
+    ],
+    "distanceFromEarth": {
+      "value": 650000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 3.6,
+      "unit": "solar masses"
+    },
+    "discovered": 2024,
+    "discoveredBy": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration",
+      "KAGRA Collaboration"
+    ],
+    "description": "A gravitational-wave signal detected by LIGO Livingston on 29 May 2023 and announced in April 2024, from a neutron star merging with an object of about 3.6 solar masses. That is heavier than any known neutron star but lighter than almost every black hole measured, placing it in the so-called mass gap of 3–5 solar masses. It is almost certainly a black hole, one of the lightest ever found, and its existence suggests the gap is not as empty as once thought.",
+    "type": "stellar",
+    "notable": "First compact object firmly inside the neutron-star/black-hole mass gap",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/GW230529",
+      "documentation": "https://arxiv.org/abs/2404.04248"
+    },
+    "eventHorizonDiameter": {
+      "value": 21,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Its companion was a neutron star of roughly 1.2–2.0 solar masses.",
+      "Only one detector, LIGO Livingston, was observing when it arrived.",
+      "It was the first significant detection of the O4 observing run."
+    ],
+    "wikipediaTitle": "GW230529"
+  },
+  {
+    "id": 40,
+    "name": "GW250114",
+    "alternateNames": [
+      "S250114ax"
+    ],
+    "distanceFromEarth": {
+      "value": 1140000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 62.7,
+      "unit": "solar masses"
+    },
+    "discovered": 2025,
+    "discoveredBy": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration",
+      "KAGRA Collaboration"
+    ],
+    "description": "Detected on 14 January 2025, almost ten years after the first gravitational-wave detection, GW250114 is the loudest signal on record. Two black holes of about 33.6 and 32.2 solar masses merged into a 62.7-solar-mass remnant, and the signal was clean enough for the ringdown to be split into separate tones. That allowed the first precise test of Stephen Hawking's 1971 area theorem: the final black hole's horizon area was larger than the two originals combined, just as the theorem predicts.",
+    "type": "stellar",
+    "notable": "Clearest gravitational-wave signal ever recorded",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/GW250114",
+      "documentation": "https://arxiv.org/abs/2509.08099"
+    },
+    "eventHorizonDiameter": {
+      "value": 370,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "Its signal-to-noise ratio of about 80 is roughly three times that of GW150914.",
+      "It confirmed Hawking's area theorem with high confidence.",
+      "Its merging black holes were almost twins, nearly identical to those of GW150914."
+    ],
+    "wikipediaTitle": "GW250114",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Gw250114_data_and_reconstruction.svg/960px-Gw250114_data_and_reconstruction.svg.png",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — GW250114"
+  },
+  {
+    "id": 41,
+    "name": "GW231123",
+    "alternateNames": [
+      "S231123cg"
+    ],
+    "distanceFromEarth": {
+      "value": 7200000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 225,
+      "unit": "solar masses"
+    },
+    "discovered": 2025,
+    "discoveredBy": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration",
+      "KAGRA Collaboration"
+    ],
+    "description": "A merger of two black holes of roughly 137 and 103 solar masses, detected on 23 November 2023 and announced in July 2025. The remnant weighs about 225 solar masses, beating GW190521 as the heaviest merger ever observed. Both progenitors sit in or near the pair-instability mass gap, where ordinary stars should leave no remnant at all, and they were spinning close to the maximum Einstein allows. The best explanation is that each was already the product of earlier mergers.",
+    "type": "intermediate",
+    "notable": "Most massive black hole merger detected with gravitational waves",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/GW231123",
+      "documentation": "https://arxiv.org/abs/2507.08219"
+    },
+    "eventHorizonDiameter": {
+      "value": 1330,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "The signal lasted only about a tenth of a second.",
+      "Its black holes were spinning at roughly 90% and 80% of the theoretical maximum.",
+      "The remnant is firmly in the intermediate-mass range."
+    ],
+    "wikipediaTitle": "GW231123"
+  },
+  {
+    "id": 42,
+    "name": "Cosmic Horseshoe*",
+    "alternateNames": [
+      "SDSS J1004+4112 lens galaxy black hole",
+      "LRG 3-757 black hole"
+    ],
+    "distanceFromEarth": {
+      "value": 5000000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 36000000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2025,
+    "discoveredBy": [
+      "Carlos Melo-Carneiro",
+      "Thomas Collett",
+      "Cristina Furlanetto"
+    ],
+    "description": "An ultramassive black hole of about 36 billion solar masses in the foreground galaxy of the Cosmic Horseshoe, a near-perfect Einstein ring discovered in 2007. In 2025 a team led by Carlos Melo-Carneiro of UFRGS in Brazil combined two independent methods, the bending of light from the background galaxy and the motions of stars in the lens galaxy, to weigh the central black hole. Published in MNRAS, the result sits close to the theoretical upper limit for black hole mass and is about 10,000 times heavier than Sagittarius A*.",
+    "type": "supermassive",
+    "notable": "Among the most massive black holes ever measured",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cosmic_Horseshoe",
+      "documentation": "https://arxiv.org/abs/2502.13788"
+    },
+    "eventHorizonDiameter": {
+      "value": 212616,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "The measurement combines gravitational lensing with stellar dynamics.",
+      "It is a dormant black hole, found without any bright accretion.",
+      "Its host is a 'fossil group' galaxy that has swallowed all of its large neighbours."
+    ],
+    "wikipediaTitle": "Cosmic Horseshoe",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/A_Horseshoe_Einstein_Ring_from_Hubble.JPG/960px-A_Horseshoe_Einstein_Ring_from_Hubble.JPG",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Cosmic Horseshoe"
+  },
+  {
+    "id": 43,
+    "name": "CAPERS-LRD-z9*",
+    "alternateNames": [
+      "CAPERS-LRD-z9"
+    ],
+    "distanceFromEarth": {
+      "value": 13300000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 38000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2025,
+    "discoveredBy": [
+      "Anthony Taylor",
+      "Steven Finkelstein",
+      "CAPERS Collaboration"
+    ],
+    "description": "A 'Little Red Dot' seen about 500 million years after the Big Bang (redshift 9.288), confirmed in August 2025 by a team led by Anthony Taylor at UT Austin. JWST spectra from the CAPERS survey show broad hydrogen emission from gas orbiting at thousands of kilometres per second, the signature of an accreting black hole. The best estimate is about 38 million solar masses, though it could be as high as 300 million. Either way, it is far too heavy for its age and may represent a large fraction of its host galaxy's mass.",
+    "type": "supermassive",
+    "notable": "Most distant black hole confirmed by spectroscopy (2025)",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/CAPERS-LRD-z9",
+      "documentation": "https://arxiv.org/abs/2505.04609"
+    },
+    "eventHorizonDiameter": {
+      "value": 224.4,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Its light left it when the universe was about 3% of its present age.",
+      "It supports the idea that many 'Little Red Dots' are dust- or gas-shrouded black holes.",
+      "Mass estimates range from about 4 million to 300 million solar masses."
+    ],
+    "wikipediaTitle": "CAPERS-LRD-z9",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/CAPERS-LRD-z9.png",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — CAPERS-LRD-z9"
+  },
+  {
+    "id": 44,
+    "name": "CANUCS-LRD-z8.6*",
+    "alternateNames": [
+      "CANUCS-LRD-z8.6"
+    ],
+    "distanceFromEarth": {
+      "value": 13200000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 100000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2025,
+    "discoveredBy": [
+      "Roberta Tripodi",
+      "CANUCS Collaboration"
+    ],
+    "description": "A rapidly feeding black hole of about 100 million solar masses inside a compact, metal-poor 'Little Red Dot' galaxy at redshift 8.6. Magnified by the galaxy cluster MACS J1149.5+2223, it was studied with JWST's NIRSpec by a team led by Roberta Tripodi and published in Nature Communications in November 2025. The black hole is far more massive relative to its host than black holes in today's galaxies, suggesting it grew ahead of its galaxy, from a heavy seed or through bursts of super-Eddington feeding.",
+    "type": "supermassive",
+    "notable": "Overmassive black hole just 570 million years after the Big Bang",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Little_red_dots",
+      "documentation": "https://www.nature.com/articles/s41467-025-65070-x"
+    },
+    "eventHorizonDiameter": {
+      "value": 590.6,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Its light is magnified by a foreground galaxy cluster acting as a gravitational lens.",
+      "Its host galaxy contains very few elements heavier than helium.",
+      "Standard light-seed growth models struggle to reach this mass so early."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "RACS J0320-35*",
+    "alternateNames": [
+      "RACS J032021.44-352104.1"
+    ],
+    "distanceFromEarth": {
+      "value": 12800000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 1000000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2025,
+    "discoveredBy": [
+      "Luca Ighina"
+    ],
+    "description": "A quasar seen 920 million years after the Big Bang, powered by a black hole of about a billion solar masses. It was first found as a radio source in the Rapid ASKAP Continuum Survey. In September 2025, Chandra X-ray observations led by Luca Ighina of the Harvard-Smithsonian Center for Astrophysics showed it is swallowing between 300 and 3,000 solar masses of material a year, about 2.4 times the Eddington limit. It also launches a radio jet, offering a rare look at how super-Eddington growth and jets coexist.",
+    "type": "supermassive",
+    "notable": "Growing at about 2.4 times the Eddington limit",
+    "links": {
+      "nasa": "https://www.nasa.gov/missions/chandra/nasas-chandra-finds-black-hole-with-tremendous-growth/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Supermassive_black_hole",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=RACS%20J0320-35"
+    },
+    "eventHorizonDiameter": {
+      "value": 5906,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "It gains the equivalent of hundreds to thousands of Suns every year.",
+      "It is one of the few super-Eddington quasars known to launch a jet.",
+      "Its discovery combined data from ASKAP, DECam, Gemini-South and Chandra."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Infinity Galaxy*",
+    "alternateNames": [
+      "Infinity Galaxy black hole",
+      "∞ Galaxy"
+    ],
+    "distanceFromEarth": {
+      "value": 8300000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 1000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2025,
+    "discoveredBy": [
+      "Pieter van Dokkum",
+      "Gabriel Brammer"
+    ],
+    "description": "An actively growing black hole of about a million solar masses sitting not in either nucleus of two colliding ring galaxies, but in the gas between them. The system, nicknamed the Infinity Galaxy for its ∞ shape, was found in 2025 by Pieter van Dokkum and Gabriel Brammer in JWST COSMOS-Web images. The black hole's velocity matches the surrounding gas to within 50 km/s, which points to it having formed in place from collapsing, shock-compressed gas about 50 million years ago. That would make it the first observed example of a direct-collapse seed.",
+    "type": "supermassive",
+    "notable": "Candidate for a supermassive black hole born by direct collapse",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Infinity_Galaxy",
+      "documentation": "https://arxiv.org/abs/2506.15618"
+    },
+    "eventHorizonDiameter": {
+      "value": 5.9,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "The two galaxy nuclei are about 10 kiloparsecs apart, and the black hole sits between them.",
+      "Direct collapse was proposed to explain early supermassive black holes but had never been observed.",
+      "It was found in archival JWST survey data rather than targeted observations."
+    ],
+    "wikipediaTitle": "Infinity Galaxy",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Infinity_Galaxy_%28NIRCam%29_%2801JZJK8927VB7900WF3SAGSTFH%29.jpg/960px-Infinity_Galaxy_%28NIRCam%29_%2801JZJK8927VB7900WF3SAGSTFH%29.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Infinity Galaxy"
+  },
+  {
+    "id": 47,
+    "name": "Ansky",
+    "alternateNames": [
+      "ZTF19acnskyy",
+      "SDSS J1335+0728 nucleus"
+    ],
+    "distanceFromEarth": {
+      "value": 300000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 1000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2025,
+    "discoveredBy": [
+      "Lorena Hernández-García",
+      "Paula Sánchez-Sáez"
+    ],
+    "description": "A million-solar-mass black hole in the galaxy SDSS J1335+0728 in Virgo that woke up in late 2019 after decades of quiet. Since February 2024 it has produced repeating X-ray eruptions, first about every 4.5 days and later about every 10 days, which are the longest, brightest and most energetic quasi-periodic eruptions (QPEs) known. A team led by Lorena Hernández-García reported them in Nature Astronomy in April 2025. Unlike other QPE sources, no star appears to have been shredded, which challenges the leading explanations.",
+    "type": "supermassive",
+    "notable": "Most extreme quasi-periodic X-ray eruptions ever seen",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ansky_(black_hole)",
+      "documentation": "https://arxiv.org/abs/2504.07169"
+    },
+    "eventHorizonDiameter": {
+      "value": 5.9,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Its nickname comes from its Zwicky Transient Facility alert name, ZTF19acnskyy.",
+      "Each eruption releases up to 100 times more energy than typical QPEs.",
+      "It was first flagged by an automated classifier searching ZTF alert streams."
+    ],
+    "wikipediaTitle": "Ansky (black hole)",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Giant_black_hole_awakens_with_repetitive_X-ray_bursts_ESA507947.jpg/960px-Giant_black_hole_awakens_with_repetitive_X-ray_bursts_ESA507947.jpg",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — Ansky (black hole)"
+  },
+  {
+    "id": 48,
+    "name": "RBH-1",
+    "alternateNames": [
+      "Runaway Black Hole 1"
+    ],
+    "distanceFromEarth": {
+      "value": 7700000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 10000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2025,
+    "discoveredBy": [
+      "Pieter van Dokkum"
+    ],
+    "description": "A supermassive black hole of at least 10 million solar masses hurtling through intergalactic space. It was first proposed in 2023 after Hubble revealed a straight, 200,000-light-year streak of young stars at redshift 0.96. In December 2025, JWST NIRSpec spectra led by Pieter van Dokkum confirmed a supersonic bow shock at the head of the streak, where the black hole is ploughing through gas at nearly 1,000 km/s. It was most likely kicked out of its galaxy by a three-body encounter or gravitational-wave recoil.",
+    "type": "supermassive",
+    "notable": "First confirmed runaway supermassive black hole",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Supermassive_black_hole",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=RBH-1%20runaway%20supermassive%20black%20hole%20bow%20shock"
+    },
+    "eventHorizonDiameter": {
+      "value": 59.1,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "Its wake of star-forming gas stretches about 200,000 light-years.",
+      "It is moving at roughly 3.4 million km/h.",
+      "Runaway supermassive black holes were predicted for decades before one was confirmed."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "eFEDS J084222.9+001000",
+    "alternateNames": [
+      "eFEDS ID830"
+    ],
+    "distanceFromEarth": {
+      "value": 11900000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 440000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2026,
+    "discoveredBy": [
+      "Sakiko Obuchi"
+    ],
+    "description": "A radio-loud quasar at redshift 3.4 whose 440-million-solar-mass black hole is accreting at about 13 times the Eddington limit, roughly 125 solar masses of gas a year. Found in the eROSITA eFEDS X-ray survey and characterised with Subaru Telescope spectroscopy by a team led by Sakiko Obuchi (Waseda University), published in The Astrophysical Journal in January 2026. Super-Eddington black holes were expected to be X-ray faint and jet-free; this one is brilliantly bright in X-rays and launches a parsec-scale jet, suggesting we are catching a short-lived transitional phase.",
+    "type": "supermassive",
+    "notable": "Super-Eddington quasar that is both X-ray luminous and jet-launching",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eddington_luminosity",
+      "documentation": "https://arxiv.org/abs/2511.05029"
+    },
+    "eventHorizonDiameter": {
+      "value": 2598.6,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "It is the most X-ray luminous radio-loud quasar in eROSITA's eFEDS field.",
+      "Follow-up VLBA imaging resolved a collimated jet about 745 parsecs long.",
+      "Its extreme feeding may have been triggered by a sudden inflow of gas."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "M31-2014-DS1",
+    "alternateNames": [
+      "Andromeda failed supernova"
+    ],
+    "distanceFromEarth": {
+      "value": 2500000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 5,
+      "unit": "solar masses"
+    },
+    "discovered": 2026,
+    "discoveredBy": [
+      "Kishalay De"
+    ],
+    "description": "A massive supergiant star in the Andromeda Galaxy that vanished without a supernova. It was born at about 13 solar masses and had shed down to roughly 5 through stellar winds. NEOWISE archival data showed it brightening in infrared in 2014, fading sharply by 2016, and disappearing in visible and near-infrared light by 2023. A team led by Kishalay De, published in Science in February 2026, showed that its core collapsed straight into a black hole while its outer layers were slowly and weakly ejected. The black hole's mass is estimated from the collapsing star and has not been measured directly.",
+    "type": "stellar",
+    "notable": "Most complete record of a star collapsing directly into a black hole",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Failed_supernova",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=M31-2014-DS1"
+    },
+    "eventHorizonDiameter": {
+      "value": 30,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "The star faded to a ten-thousandth of its former visible brightness.",
+      "Only about 1% of its outer envelope is expected to fall into the new black hole.",
+      "JWST sees a cooling, dust-shrouded remnant; Chandra has not yet detected X-rays."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "A402-BCG binary",
+    "alternateNames": [
+      "Abell 402 BCG",
+      "A402-BCG"
+    ],
+    "distanceFromEarth": {
+      "value": 4400000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 60000000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2026,
+    "discoveredBy": [
+      "Michael McDonald"
+    ],
+    "description": "A candidate pair of ultramassive black holes with a combined mass of about 60 billion Suns, at the centre of the brightest galaxy in the cluster Abell 402. Hubble had shown an odd dark patch at the galaxy's core. JWST and VLT/MUSE observations led by MIT's Michael McDonald, published in The Astrophysical Journal Letters in May 2026, revealed that the patch is not dust but a 6,500-light-year hole where about 2 billion solar masses of stars are missing. The best explanation is two black holes, the larger around 50 billion solar masses, slowly spiralling together and flinging stars out of the core.",
+    "type": "supermassive",
+    "notable": "Most massive pair of black holes ever found",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Binary_black_hole",
+      "documentation": "https://arxiv.org/abs/2603.10104"
+    },
+    "eventHorizonDiameter": {
+      "value": 354360,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "The pair is at least twice as massive as any other known black hole duo.",
+      "Simulations suggest only ~0.5% of massive galaxies are in this phase at any time.",
+      "When they merge, they should form one of the largest black holes in the universe."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "TDE 2025abcr",
+    "alternateNames": [
+      "AT 2025abcr"
+    ],
+    "distanceFromEarth": {
+      "value": 750000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 1000000,
+      "unit": "solar masses"
+    },
+    "discovered": 2026,
+    "discoveredBy": [
+      "Robert Stein",
+      "Jonathan Carney",
+      "Suvi Gezari"
+    ],
+    "description": "A million-solar-mass black hole wandering more than 30,000 light-years from the centre of its host galaxy, revealed only when it tore apart a passing star. The flare was flagged in November 2025 by an AI classifier running on Zwicky Transient Facility alerts, then followed up with NASA's Swift and the SOAR telescope. At peak it shone as bright as about 10 billion Suns. Published by a University of Maryland–led team in The Astrophysical Journal Letters in July 2026, it is likely a relic of an earlier galaxy merger.",
+    "type": "supermassive",
+    "notable": "Dormant wandering black hole found farther from its galaxy core than any other",
+    "links": {
+      "nasa": "https://science.nasa.gov/mission/swift/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tidal_disruption_event",
+      "documentation": "https://ui.adsabs.harvard.edu/search/q=2025abcr"
+    },
+    "eventHorizonDiameter": {
+      "value": 5.9,
+      "unit": "million kilometers"
+    },
+    "facts": [
+      "It had no visible accretion before the star was destroyed.",
+      "The flare reached a temperature of about 30,000 °C.",
+      "The AI search found it within three months of starting operation."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "MoM-BH*-1",
+    "alternateNames": [
+      "Mirage or Miracle Black Hole Star 1"
+    ],
+    "distanceFromEarth": {
+      "value": 13100000000,
+      "unit": "light-years"
+    },
+    "mass": {
+      "value": 100000,
+      "unit": "solar masses"
+    },
+    "discovered": 2026,
+    "discoveredBy": [
+      "Rohan Naidu",
+      "Robert Simcoe",
+      "MoM Survey Collaboration"
+    ],
+    "description": "A new kind of object: a black hole wrapped in a dense, star-like envelope of hydrogen about the size of our solar system, glowing not from fusion but from the black hole feeding inside it. Seen by JWST at redshift 7.76, about 660 million years after the Big Bang, it shows the deepest Balmer break ever measured. A team led by Rohan Naidu published it in Nature in August 2026. The central black hole is estimated at around 100,000 solar masses, though the uncertainty spans more than two orders of magnitude. Black hole stars may explain JWST's mysterious 'Little Red Dots'.",
+    "type": "intermediate",
+    "notable": "First 'black hole star' ever identified",
+    "links": {
+      "nasa": "https://science.nasa.gov/universe/black-holes/types/",
+      "wikipedia": "https://en.wikipedia.org/wiki/MoM-BH*-1",
+      "documentation": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812"
+    },
+    "eventHorizonDiameter": {
+      "value": 590600,
+      "unit": "kilometers"
+    },
+    "facts": [
+      "It outshines any known star by a factor of about 100 billion.",
+      "Its name stands for 'Mirage or Miracle', a JWST survey of early galaxies.",
+      "Some apparently over-bright early galaxies may really be black hole stars."
+    ],
+    "wikipediaTitle": "MoM-BH*-1",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/MoM-BH%2A-1.png",
+    "imageCredit": "Wikimedia Commons via English Wikipedia — MoM-BH*-1"
   }
 ]
